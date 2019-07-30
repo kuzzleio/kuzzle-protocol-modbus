@@ -1,0 +1,22 @@
+{
+  "name": "kuzzle-modbus",
+  "version": "1.0.0",
+  "description": "MODBUS protocol support for Kuzzle",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint --max-warnings=0 ./lib"
+  },
+  "keywords": [
+    "modbus",
+    "protocol",
+    "kuzzle"
+  ],
+  "author": "The Kuzzle Team <support@kuzzle.io>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "modbus-serial": "^7.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}

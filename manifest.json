@@ -1,0 +1,4 @@
+{
+  "name": "modbus",
+  "kuzzleVersion": ">=1.8.4"
+}
