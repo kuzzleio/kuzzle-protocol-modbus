@@ -1,4 +1,4 @@
 {
   "name": "modbus",
-  "kuzzleVersion": ">=1.8.4"
+  "kuzzleVersion": ">=1.9.0"
 }
